@@ -1,2 +1,2 @@
-# project-29-solution
-project 29 solution
+# p5.play-boilerplate
+Boiler plate for p5.play
